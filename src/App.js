@@ -1,8 +1,11 @@
 import React from 'react'
+import {Article , Brand , Cta , Feature, Navbar } from './components';
 
 const App = () => {
   return (
-    <div>App</div>
+    <div>
+      <h1>GPT-3</h1>
+    </div>
   )
 }
 
